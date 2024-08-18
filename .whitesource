@@ -5,6 +5,7 @@
     "projectToken": "",
     "baseBranches": []
 
+
   },
   "scanSettingsSAST": {
     "enableScan": false,
